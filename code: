@@ -3,6 +3,7 @@ public class Main
 {
 	public static void main(String[] args)
 	{
+	   //YOU CAN PASS ANY NUMBER INSTEAD OF -1
 	   int no=-1;
 	   boolean isprime=true;
 	   if(no==1 || no==0)
